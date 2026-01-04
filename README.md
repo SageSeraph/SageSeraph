@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Heya.
+I'm Sage! I'm currently working on Angelica (A Balatro mod) and Scuffed Skymine Simulator (an idle game made in Turbowarp).
 <!--
 **SageSeraph/SageSeraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
